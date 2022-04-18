@@ -1,0 +1,39 @@
+body {
+	background-color: rgb(224, 224, 224);
+}
+
+* {
+  border-radius: 0 !important;
+}
+
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+		}
+} 
+
+.irugi-c-header {
+	background-color: rgb(226, 80, 111);
+	color: #ffffff;
+	text-align: center;
+}
+
+.irugi-c-body {
+	background-color: #ffffff;
+	color: rgb(84, 84, 84);
+	text-align: center;
+}
+
+.irugi-button {
+	background-color: rgb(226, 80, 111);
+	color: #ffffff;
+	text-align: center;
+}
